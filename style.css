@@ -1,0 +1,11 @@
+.leaflet-overlay-pane {
+  mix-blend-mode:multiply;
+}
+
+.leaf-legend {
+  text-align: center;
+}
+
+.leaf-legend div:nth-of-type(2n) {
+  margin-left: 27px;
+}
